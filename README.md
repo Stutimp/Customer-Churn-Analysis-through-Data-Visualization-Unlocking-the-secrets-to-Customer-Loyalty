@@ -89,11 +89,14 @@ Special thanks to my online tutor and TAs at bootcamp for their valuable suggest
 - Pandas Documentation
 - Matplotlib Documentation
 - Seaborn Documentation
--  I used online pandas, matplotlib, and seaborns documentations sources as references to work on my codes, the links are , https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html, https://matplotlib.org/3.7.1/tutorials/introductory/quick_start.html
+-  I used online pandas, matplotlib, and seaborns documentations sources as references to work on my codes, the links are ,
+
+ https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html, https://matplotlib.org/3.7.1/tutorials/introductory/quick_start.html
  and https://seaborn.pydata.org/generated/seaborn.scatterplot.html 
 
 
  Thank you !
 
 **Author**
+
 Stuti Poudel
