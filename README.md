@@ -59,24 +59,24 @@ Steps I followed are:
 
 1. **Observation:** With respect to "Monthly charges“, there is a weak positive linear relationship (0.193) between monthly charges and churn rate. Also, the R-squared value of (approx.) 0.212 indicates the strength of the relationship; it would also be essential to consider the p-value associated with the regression analysis to understand whether the observed relationship is statistically significant. 
 
- **Suggestions:** There could be other factors influencing churn that are not included in the model. These might include customer service quality, contract terms, competitive offers, individual customer preferences, and market conditions. 
+ - **Suggestions:** There could be other factors influencing churn that are not included in the model. These might include customer service quality, contract terms, competitive offers, individual customer preferences, and market conditions. 
 
 2. **Observation:** With respect to the “Internet Services” category, Fiber Optic has the highest churn rate, i.e., 42%.  suggesting issues around fiber optic services. The provider could improve fiber optic performance and customer satisfaction to reduce churn. 
 
- **Suggestions:** Improving fiber optic satisfaction and analyzing the root causes of dissatisfaction among fiber optic customers could reveal ways to improve retention.
+- **Suggestions:** Improving fiber optic satisfaction and analyzing the root causes of dissatisfaction among fiber optic customers could reveal ways to improve retention.
 
 
 3. **Observation:** With respect to “Contract” categories, approx. 42.71% of customers with a month-to-month contract have churned,  compared to (one year and two years), with the two-year contract holders being the least likely to churn(2.83%). 
 
-**Suggestions:**  The highest month-to-month churn rate could reflect the lowest commitment level, lower satisfaction, end of promotions and trial periods of the services, life changes, etc. Customized price levels ensuring higher quality ensuring customer satisfaction may help businesses retain more customers. 
+- **Suggestions:**  The highest month-to-month churn rate could reflect the lowest commitment level, lower satisfaction, end of promotions and trial periods of the services, life changes, etc. Customized price levels ensuring higher quality ensuring customer satisfaction may help businesses retain more customers. 
 
 4. **Observation:** With respect to “Total Charges:” The significant presence of outliers among churned customers suggests that while the median total charge is lower, several churned customers still have very high total charges. The more consistent range of total charges among retained customers could indicate that customers within a specific spending range are more likely to stay.
 
-**Suggestions:** The company might want to investigate why customers with high total charges are leaving and address those reasons to improve retention.
+- **Suggestions:** The company might want to investigate why customers with high total charges are leaving and address those reasons to improve retention.
 
 5. **observation:** With Respect to “Senior Citizen”: The churn rate is almost double for senior citizens versus non-seniors (41.68% >23.60%) even though seniors are only 16.2% of the total customers in the dataset. 
 
-**Suggestions:** The smaller number of senior citizens in the dataset could mean we didn’t collect enough data from the aging population. At the same time, their higher churning rate suggests that they may need additional retention efforts, special offers, or customized services to reduce their churn rate.
+- **Suggestions:** The smaller number of senior citizens in the dataset could mean we didn’t collect enough data from the aging population. At the same time, their higher churning rate suggests that they may need additional retention efforts, special offers, or customized services to reduce their churn rate.
 
 
 ## Conclusion
